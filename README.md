@@ -98,7 +98,7 @@ git --version
 
 🔹 Step 8: Clone GitHub Repository
 
-git clone https://github.com/username/project.git
+git clone https://github.com/shashikant1216/AWS-EC2-Server-Setup-Windows-Linux-.git
 
 
 ---
