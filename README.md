@@ -1,5 +1,5 @@
 
-AWS EC2 Server Setup Documentation (Windows & Linux)
+AWS EC2 Server Setup (Windows & Linux)
 
 📌 Project Overview
 
