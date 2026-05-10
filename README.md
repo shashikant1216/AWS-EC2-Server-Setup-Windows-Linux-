@@ -337,15 +337,6 @@ Configured and managed AWS EC2 Linux and Windows servers. Performed remote acces
 
 ---
 
-📘 README.md File
-
-# AWS EC2 Windows & Linux Server Setup
-
-## 📌 Overview
-This project demonstrates the setup and configuration of AWS EC2 instances for both Linux and Windows operating systems. It includes remote access configuration, web server installation, GitHub integration, firewall setup, and basic cloud security implementation.
-
----
-
 # 🚀 Technologies Used
 - AWS EC2
 - Ubuntu Linux
